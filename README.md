@@ -40,10 +40,10 @@ where
 
 $$
 D = \begin{bmatrix}
-    1/a_{11} & 1/a_{12} & \cdots & a_{1n-1} & 1 \\
-    a_{21} & a_{22} & \cdots & a_{2n-1} & 1 \\
+    1/a_{11} & 1/a_{12} & \cdots & 1/a_{1n-1} & 1 \\
+    1/a_{21} & 1/a_{22} & \cdots & 1/a_{2n-1} & 1 \\
     \vdots & \vdots & \ddots & \vdots & \vdots \\
-    a_{m1} & a_{m2} & \cdots & a_{mn-1} & 1
+    1/a_{m1} & 1/a_{m2} & \cdots & 1/a_{mn-1} & 1
 \end{bmatrix}
 $$
 
