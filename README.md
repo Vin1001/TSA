@@ -52,3 +52,7 @@ $$
 #### - Through this approach the change of an input variable with respect to other input variables is found out.
 #### - The target variable per unit input variable also conveys an intuitive meaning as to which variable has the most impact on the target vector.
 #### - Reduced sesitivity to outliers- Using the model with z-score normalized data, will automatically diminish the effect of values which have more deviation from mean.
+
+## Stock Price Application
+
+Using a sliding window application for the derivative-based fitter, not only have i developed a sliding window stock price predictor but also a prediction mechanism to incorporate the fluctuations in the stock prices using binary trees.
