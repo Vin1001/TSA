@@ -31,7 +31,7 @@ $$
 \beta = (A^T A)^{-1} A^T y
 $$
 
-where y is the target vector and β is the weight vector. However, OLS is highly sensitive to outliers since squaring induces unnecessary bias in the model. To overcome the problem of squaring, I developed \textbf{derivate-based estimation}, which uses:
+where y is the target vector and β is the weight vector. However, OLS is highly sensitive to outliers since squaring induces unnecessary bias in the model. To overcome the problem of squaring, I developed \Textbf{derivate-based estimation}, which uses:
 
 $$
 \beta = (D^T A)^{-1} D^T y
