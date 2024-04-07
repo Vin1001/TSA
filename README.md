@@ -56,3 +56,7 @@ $$
 ## Stock Price Application
 
 Using a sliding window application for the derivative-based fitter, not only have i developed a sliding window stock price predictor but also a prediction mechanism to incorporate the fluctuations in the stock prices using binary trees.
+
+
+Disclaimer:
+The projects and analyses provided in this repository are for educational purposes only and should not be construed as financial advice.
