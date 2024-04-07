@@ -24,3 +24,11 @@ A = \begin{bmatrix}
 \end{bmatrix}
 $$
 
+Ordinary Least Squares estimator for the input matrix is defined to be
+
+$$
+\beta = (A^T A)^{-1} A^T y
+$$
+
+where y is the target vector and \beta is the weight vector
+
