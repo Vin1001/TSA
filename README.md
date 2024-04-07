@@ -30,6 +30,20 @@ $$
 \beta = (A^T A)^{-1} A^T y
 $$
 
-where y is the target vector and β is the weight vector. However, OLS is highly sensitive to outliers since squaring induces unnecessary bias in the model. 
+where y is the target vector and β is the weight vector. However, OLS is highly sensitive to outliers since squaring induces unnecessary bias in the model. To overcome the problem of squaring, I developed derivate-based estimation, which uses:
 
+$$
+\beta = (D^T A)^{-1} D^T y
+$$
+
+where 
+
+$$
+D = \begin{bmatrix}
+    1/a_{11} & 1/a_{12} & \cdots & a_{1n-1} & 1 \\
+    a_{21} & a_{22} & \cdots & a_{2n-1} & 1 \\
+    \vdots & \vdots & \ddots & \vdots & \vdots \\
+    a_{m1} & a_{m2} & \cdots & a_{mn-1} & 1
+\end{bmatrix}
+$$
 
