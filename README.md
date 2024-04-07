@@ -11,7 +11,6 @@ A = \begin{bmatrix}
     \vdots & \vdots & \ddots & \vdots \\
     a_{m1} & a_{m2} & \cdots & a_{mn}
 \end{bmatrix}
-(a_{ij} \neq 0\
 $$
 
 To fit an intercept A becomes
