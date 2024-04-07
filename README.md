@@ -24,11 +24,12 @@ A = \begin{bmatrix}
 \end{bmatrix}
 $$
 
-Ordinary Least Squares estimator for the input matrix is defined to be
+Ordinary Least Squares(OLS) estimator for the input matrix is defined to be
 
 $$
 \beta = (A^T A)^{-1} A^T y
 $$
 
-where y is the target vector and β is the weight vector
+where y is the target vector and β is the weight vector. However, OLS is highly sensitive to outliers since squaring induces unnecessary bias in the model.
+
 
