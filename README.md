@@ -3,9 +3,11 @@ My built-from-scratch derivate-based hyperplane fitter and its implementation in
 
 ## Derivative-based hypeplane fitter
 $$
-B = \begin{bmatrix}
-    x_{00} & x_{01} \\
-    3 & 4 \\
-    5 & 6
+A = \begin{bmatrix}
+    a_{11} & a_{12} & \cdots & a_{1n} \\
+    a_{21} & a_{22} & \cdots & a_{2n} \\
+    \vdots & \vdots & \ddots & \vdots \\
+    a_{m1} & a_{m2} & \cdots & a_{mn}
 \end{bmatrix}
 $$
+
