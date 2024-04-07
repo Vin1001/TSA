@@ -4,7 +4,7 @@ My built-from-scratch derivate-based hyperplane fitter and its implementation in
 ## Derivative-based hypeplane fitter
 $$
 B = \begin{bmatrix}
-    1 & 2 \\
+    x_00 & x_01 \\
     3 & 4 \\
     5 & 6
 \end{bmatrix}
