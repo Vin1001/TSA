@@ -62,9 +62,11 @@ Using a sliding window application for the derivative-based fitter, not only hav
 Here RF is called the Risk Factor ranging between [0, 1]. RF at tick = t is calculated as the ratio of difference between prediction for t and actual value at t, to twice of nth percentile absolute error(for eg. 80th percentile error if considered significant).
 #### For demonstration of the model check out notebooks directory
 
-\begin{verbatim}
+\begin{lstlisting}[language=Python, caption={Example Python Code}, label={lst:python}]
 git clone https://github.com/your-username/your-project.git
-\end{verbatim}
+
+\end{lstlisting}
+
 
 
 Disclaimer:
