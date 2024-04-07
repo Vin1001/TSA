@@ -48,7 +48,7 @@ D = \begin{bmatrix}
 \end{bmatrix}, (a_{ij} \neq 0\)
 $$
 
-#### Intuitive meaning:
-##### - Through this approach the change of an input variable with respect to other input variables is found out.
-##### - The target variable per unit input variable also conveys an intuitive meaning as to which variable has the most impact on the target vector.
-##### - Reduced sesitivity to outliers- Using the model with z-score normalized data, will automatically diminish the effect of values which have more deviation from mean.
+### Intuitive meaning:
+#### - Through this approach the change of an input variable with respect to other input variables is found out.
+#### - The target variable per unit input variable also conveys an intuitive meaning as to which variable has the most impact on the target vector.
+#### - Reduced sesitivity to outliers- Using the model with z-score normalized data, will automatically diminish the effect of values which have more deviation from mean.
