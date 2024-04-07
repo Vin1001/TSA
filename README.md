@@ -11,8 +11,8 @@ A = \begin{bmatrix}
     a_{m1} & a_{m2} & \cdots & a_{mn}
 \end{bmatrix}
 $$
-To fit an intercept A becomes
 
+To fit an intercept A becomes
 $$
 A = \begin{bmatrix}
     a_{11} & a_{12} & \cdots & a_{1n-1} & 1 \\
