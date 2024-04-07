@@ -11,6 +11,7 @@ A = \begin{bmatrix}
     \vdots & \vdots & \ddots & \vdots \\
     a_{m1} & a_{m2} & \cdots & a_{mn}
 \end{bmatrix}
+(a_{ij} \neq 0\
 $$
 
 To fit an intercept A becomes
@@ -30,6 +31,6 @@ $$
 \beta = (A^T A)^{-1} A^T y
 $$
 
-where y is the target vector and β is the weight vector. However, OLS is highly sensitive to outliers since squaring induces unnecessary bias in the model.
+where y is the target vector and β is the weight vector. However, OLS is highly sensitive to outliers since squaring induces unnecessary bias in the model. 
 
 
