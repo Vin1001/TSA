@@ -3,7 +3,6 @@ My built-from-scratch derivative-based hyperplane fitter and its implementation 
 
 ## Derivative-based hypeplane fitter
 Lets consider the input matrix as
-
 $$
 A = \begin{bmatrix}
     a_{11} & a_{12} & \cdots & a_{1n} \\
@@ -18,7 +17,7 @@ $$
 A = \begin{bmatrix}
     a_{11} & a_{12} & \cdots & a_{1n-1} & 1 \\
     a_{21} & a_{22} & \cdots & a_{2n-1} & 1 \\
-    \vdots & \vdots & \ddots & \vdots & 1 \\
+    \vdots & \vdots & \ddots & \vdots & \vdots \\
     a_{m1} & a_{m2} & \cdots & a_{mn-1} & 1
 \end{bmatrix}
 $$
