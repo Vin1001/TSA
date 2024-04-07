@@ -1,4 +1,4 @@
-#TSA
+# TSA
 
 My built-from-scratch derivative-based hyperplane fitter and its implementation in predicting stock prices
 
