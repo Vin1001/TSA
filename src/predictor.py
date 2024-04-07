@@ -1,4 +1,4 @@
-from src import Fitter as fit
+from . import Fitter as fit
 import yfinance as yf
 import pandas as pd
 import numpy as np
