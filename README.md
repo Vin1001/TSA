@@ -44,6 +44,6 @@ D = \begin{bmatrix}
     1/a_{21} & 1/a_{22} & \cdots & 1/a_{2n-1} & 1 \\
     \vdots & \vdots & \ddots & \vdots & \vdots \\
     1/a_{m1} & 1/a_{m2} & \cdots & 1/a_{mn-1} & 1
-\end{bmatrix}(a_{ij} \neq 0\)
+\end{bmatrix, }(a_{ij} \neq 0\)
 $$
 
