@@ -30,5 +30,5 @@ $$
 \beta = (A^T A)^{-1} A^T y
 $$
 
-where y is the target vector and \beta is the weight vector
+where y is the target vector and $$\beta$$ is the weight vector
 
