@@ -1,7 +1,7 @@
 from . import Fitter as fit
 import yfinance as yf
 import pandas as pd
-import numpy as np
+import nump as np
 import numpy.linalg as la
 from statsmodels.graphics.tsaplots import plot_pacf
 import matplotlib.pyplot as plt
