@@ -65,6 +65,15 @@ Here RF is called the Risk Factor ranging between [0, 1]. RF at tick = t is calc
 ### License
 This project is licensed under the Apache 2.0 License.
 
+### Performance
+Here's a comparison of the proposed model's performance with other time series forecasting model:
+Google's AutoBNN
+![notebooks\binary_illustration.png](https://github.com/Vin1001/TSA/blob/main/notebooks/binary_illustration.png)
+
+Amazon's Chronos
+![notebooks\binary_illustration.png](https://github.com/Vin1001/TSA/blob/main/notebooks/binary_illustration.png)
+
+
 ### Contact
 For questions or feedback, feel free to reach out to vinayaksoni704@gmail.com
 
