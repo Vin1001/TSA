@@ -62,18 +62,16 @@ Using a sliding window application for the derivative-based fitter, not only hav
 Here RF is called the Risk Factor ranging between [0, 1]. RF at tick = t is calculated as the ratio of difference between prediction for t and actual value at t, to twice of nth percentile absolute error(for eg. 80th percentile error if considered significant).
 #### For demonstration of the model check out notebooks directory
 
-### License
-This project is licensed under the Apache 2.0 License.
-
 ### Performance
 Here's a comparison of the proposed model's performance with other time series forecasting model:
-Google's AutoBNN
+#### Google's AutoBNN
 ![performance/AutoBNN.png](https://github.com/Vin1001/TSA/blob/main/performance/AutoBNN.png)
 
-Amazon's Chronos
+#### Amazon's Chronos
 ![performance/chronos_comparison.png](https://github.com/Vin1001/TSA/blob/main/performance/chronos_comparison.png)
 
-
+### License
+This project is licensed under the Apache 2.0 License.
 ### Contact
 For questions or feedback, feel free to reach out to vinayaksoni704@gmail.com
 
