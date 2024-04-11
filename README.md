@@ -68,10 +68,10 @@ This project is licensed under the Apache 2.0 License.
 ### Performance
 Here's a comparison of the proposed model's performance with other time series forecasting model:
 Google's AutoBNN
-![notebooks\binary_illustration.png](https://github.com/Vin1001/TSA/blob/main/notebooks/binary_illustration.png)
+![performance/AutoBNN.png](https://github.com/Vin1001/TSA/blob/main/performance/AutoBNN.png)
 
 Amazon's Chronos
-![notebooks\binary_illustration.png](https://github.com/Vin1001/TSA/blob/main/notebooks/binary_illustration.png)
+![performance/chronos_comparison.png](https://github.com/Vin1001/TSA/blob/main/performance/chronos_comparison.png)
 
 
 ### Contact
