@@ -2,7 +2,7 @@
 
 My built-from-scratch derivative-based hyperplane fitter and its implementation in predicting stock prices
 
-## Derivative-based hypeplane fitter
+## Derivative-based hyperplane fitter
 Let us consider the input matrix as
 
 $$
