@@ -65,10 +65,10 @@ Here RF is called the Risk Factor ranging between [0, 1]. RF at tick = t is calc
 ## Performance
 Here's a comparison of the proposed model's performance with other time series forecasting model:
 #### Google's AutoBNN-
-![performance/AutoBNN.png](https://github.com/Vin1001/TSA/blob/main/performance/AutoBNN.png)
+![performance/AutoNN.png](https://github.com/Vin1001/TSA/blob/main/performance/AutoNN.png)
 
 #### Amazon's Chronos-
-![performance/chronos_comparison.png](https://github.com/Vin1001/TSA/blob/main/performance/chronos_comparison.png)
+![performance/Chronology_samjho.png](https://github.com/Vin1001/TSA/blob/main/performance/Chronology_samjho.png)
 
 ### License
 This project is licensed under the Apache 2.0 License.
