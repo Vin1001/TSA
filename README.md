@@ -63,7 +63,7 @@ Here RF is called the Risk Factor ranging between [0, 1]. RF at tick = t is calc
 #### For demonstration of the model check out notebooks directory
 
 ## Performance
-Here's a comparison of the proposed model's performance with other time series forecasting model:
+Here's a comparison of the proposed model's performance with other time series forecasting model (1 unit on X-axis = 15m, data: Amazon stock as of 12/04/2024)
 #### Google's AutoBNN-
 ![performance/AutoNN.png](https://github.com/Vin1001/TSA/blob/main/performance/AutoNN.png)
 
